@@ -1,8 +1,16 @@
-# ARENA solutions
+# ARENA
 
-Finally doing proper version control for these.
+This is a fork of the <a href="https://github.com/callummcdougall/ARENA_3.0">ARENA_3.0</a> repo, containing my solutions.
 
-I might make notes here if there are places where I do additional work / experiments that aren't contained in the main ARENA solutions.
+
+
 
 ## Contents
-1.2: Intro to Mechinterp (sections 1-3 complete, section 4 in progress)
+
+ARENA solution notebooks:
+
+* 1.2: Intro to Mechinterp (roughly complete as of 10/22)
+
+Related projects:
+
+* Fuzzy Induction (project started 10/22)
